@@ -134,3 +134,5 @@ Contributions are welcomed. When submitting a bugfix, write a test that exposes 
 
 
 Hello zhangchaolong
+
+<input type="text" value="点击" placeholder="123"/>
